@@ -32,6 +32,8 @@ Registers used:
 
 By setting up modbus registers like above, a battery will appear with 5% SOC in the Fronius inverters app.
 
+![alt text](https://github.com/dalathegreat/byd_battery/blob/main/pictures/Battery.png)
+
 ## Pictures
 
 Internal pictures from when BYD box was opened
